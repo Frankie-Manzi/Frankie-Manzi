@@ -5,7 +5,6 @@
 I’ve always been fascinated by technology, and my recent focus on cybersecurity has allowed me to combine my passion for tech with a drive for solving security challenges. I’m dedicated to enhancing my skills and expanding my knowledge, particularly in areas like SOC analysis and threat detection. Through my projects, I aim to build expertise and contribute to a safer digital world
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in technology, fueled by personal curiosity and hands-on experience, has led me to develop a deep passion for cybersecurity. I've continuously explored and learned about the field, and I’m excited to apply my problem-solving skills and knowledge to cybersecurity challenges. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
