@@ -54,5 +54,6 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Analyst Simulation (TryHackMe)
+- Network Traffic Monitoring and Attack Detection
+- SIEM Implementation and Log Analysis 
