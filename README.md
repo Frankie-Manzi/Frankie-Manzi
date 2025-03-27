@@ -7,7 +7,7 @@ I’ve always been fascinated by technology, and my recent focus on cybersecurit
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in technology, fueled by personal curiosity and hands-on experience, has led me to develop a deep passion for cybersecurity. I've continuously explored and learned about the field, and I’m excited to apply my problem-solving skills and knowledge to cybersecurity challenges. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
