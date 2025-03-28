@@ -9,7 +9,6 @@ I’ve always been fascinated by technology, and my recent focus on cybersecurit
 My journey in technology, fueled by personal curiosity and hands-on experience, has led me to develop a deep passion for cybersecurity. I've continuously explored and learned about the field, and I’m excited to apply my problem-solving skills and knowledge to cybersecurity challenges. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +42,6 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -56,4 +53,5 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 ## Projects
 - SOC Analyst Simulation (TryHackMe)
 - Network Traffic Monitoring and Attack Detection
-- SIEM Implementation and Log Analysis 
+- SIEM Implementation and Log Analysis using Splunk
+- Setup and configured a Honeypot in a cloud environment using Tpot(honeypot), Vultr(cloud service provider) and ELK Stack for visualisation of the data
