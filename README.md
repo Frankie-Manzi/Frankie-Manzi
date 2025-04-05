@@ -44,6 +44,13 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### SOAR
+<div>
+<img src="https://img.shields.io/badge/-Tines-0078D4?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABYUlEQVRYR+2WvU4CQRCGn1gYWEhYWBhY2NhYWAgoOEhZWVgoODhZ2FhY2NjYWFiIBhZK6Gd29uyv5Lsva85mXk8cmZ3zvB9z7s2bvnJgBy3gBXYBfgHb+PBZh9AT5mAHWR2gLN8BZqIKM5Z13gIcZ+vQA2fYA7M5AfG5TXsVm+X4c87UA7XoB11nZ7ptvHACU/hkgzV4CjfFmbuXYBR7gEm0u2UaczwOQMIq2FFaWppkIsr61REZED4DLfStqXqbsz6zgJwDLrgjsAKbrQJ7QBo5gF7M/AcwDqWuAVykk13U+NgBVZhPHSTe0rcB09WHsyRd6nUMcG1JOvVr5hdFqPRr0KMPkMTfAt6uDDDUc7OkPwXr7mjfCS+wA6swptUC5iPQAAAABJRU5ErkJggg==&logoColor=white" />
+
+    
+</div>
+
 ## Certifications
 <div>
 <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="100" />
