@@ -43,15 +43,17 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 
 ## Certifications
 <div>
+<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" height="100" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-0075C9?style=for-the-badge&logo=Qualys&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
 ## Projects
+- Setup a virtual homelab with Windows and Kali Linux machines
 - SOC Analyst Simulation (TryHackMe)
-- Network Traffic Monitoring and Attack Detection
+- Network Traffic Monitoring and Attack Detection in Wireshark
 - SIEM Implementation and Log Analysis using Splunk
 - Setup and configured a Honeypot in a cloud environment using Tpot(honeypot), Vultr(cloud service provider) and ELK Stack for visualisation of the data
+- Setup and configured a SOAR (Tines) with an EDR (LimaCharlie) that isolated infected machines
+- Developed Python scripts to automate simple cybersecurity tasks
