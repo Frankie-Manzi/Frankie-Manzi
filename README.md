@@ -16,8 +16,8 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Frankie-Manzi/WireShark/blob/main/README.md"> Wireshark Lab</a>|
 | Configured a cloud-based HoneyPot        | <a href="https://github.com/Frankie-Manzi/HoneyPot/blob/main/README.md"> HoneyPot</a>|
 | SOC analyst simulation      | <a href="https://github.com/Frankie-Manzi/TryHackMe-SOC-simulation/blob/main/README.md"> TryHackMe SOC Simulation|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Case Management with TheHive                  | <a href="https://github.com/Frankie-Manzi/SOAR-EDR/blob/main/README.md"> SOAR-EDR Project|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Frankie-Manzi/Python-Scripts/blob/main/README.md"> Python Scripts|
 
 ## Tools
 
