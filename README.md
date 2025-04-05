@@ -25,13 +25,16 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-0078D4?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABgklEQVQ4jZ2Sz0tCURSGv++OWRQWtvY2hYK2mhXErDYKEknSsmhX0FpY2OjKkkqCwsbGxOLK3MNhycvHjvrR3nXnn+frN7vBznHO+F/czns+fnnAQGmPxDJfE4wCB63/g2S4TlQ+IAowBt0B+34gmI7EOdXqR6AJUsQ+dg3uMX+gURwKDhBvcr+j+qGHtNn+heJZKmmgT7jzH/AIYj9H1HsagQOmKfSxpl8DGgbRTju0U8cPfqe+DNJ1uMdBu5Ns24UO6gLfQFD5Hi3ZZKl8z1DxS5Xeq1AtzCukmDdqIGawAcWWUEnH7KhfVAI7npR7AXzM1DVOeLUt4U2BDV0BOeI42aBffZfrMy4FNDp0Zb6MNWGrqr2WQ01olbkOT0RWrkfbK1asbozLU3N/Agrc8xsFr5fwK3rIV8ENyY1AAAAAElFTkSuQmCC&logoColor=white" />
+
+
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/UlEQVQ4jY2Sv0sDQRDGv3NNDyAhixkpN9JWvUCxkZ2UjoJgo9BKWiEgnsJvoIQCkFtZ2lK/QLNBEFgqIJDIBN+gaUdycGBw5uTPXb57ch8ehhI+ZzLw/OfMmTO4CBfr/U4fhPpED6AOFaSJUzncg+zjBx5McDUwguR7tkgaOe3aDh8Uq1MZStz1DuQiW25pJ7AZVlVWBps1WraCI0KgocKP9Ty50zh2BzKbYEUY1EATqK3nX+N6ZcMcIZP+i1oKFPyCpvQ2pm7VK7zr/j5Ro5MgoFBzRSmAAjD91wjIXpg+8AeElAO8ZyX1EZUsJnkI4VCkD1Y2LVZVsDwPwvh5FJDKMAqN0eASrZLVfFzMA/EIXEMM2WFCIHggAkQRRtw+ReAJlHheVcdmiWbzVXy+U9VAOU3B4KkcgS9rINmfY7S3U9Jd7aGBp0XdtfnttdpHQ3TNfBz0CJzqDbcoibvYgAAAABJRU5ErkJggg==&logoColor=white" />
+
 </div>
 
 ### SIEM
@@ -48,6 +51,11 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 <img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management-0075C9?style=for-the-badge&logo=Qualys&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
+
+## Programming Languages
+<div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
 
 ## Projects
 - Setup a virtual homelab with Windows and Kali Linux machines
