@@ -17,7 +17,7 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 | Configured a cloud-based HoneyPot        | <a href="https://github.com/Frankie-Manzi/HoneyPot/blob/main/README.md"> HoneyPot</a>|
 | SOC analyst simulation      | <a href="https://github.com/Frankie-Manzi/TryHackMe-SOC-simulation/blob/main/README.md"> TryHackMe SOC Simulation|
 | Case Management with TheHive                  | <a href="https://github.com/Frankie-Manzi/SOAR-EDR/blob/main/README.md"> SOAR-EDR Project|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Frankie-Manzi/Python-Scripts/blob/main/README.md"> Python Scripts|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Frankie-Manzi/Python-Scripts"> Python Scripts|
 
 ## Tools
 
