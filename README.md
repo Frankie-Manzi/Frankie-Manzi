@@ -1,5 +1,5 @@
 # Hello, I'm Frankie!
-<a href="www.linkedin.com/in/frankie-manzi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/frankie-manzi"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I’ve always been fascinated by technology, and my recent focus on cybersecurity has allowed me to combine my passion for tech with a drive for solving security challenges. I’m dedicated to enhancing my skills and expanding my knowledge, particularly in areas like SOC analysis and threat detection. Through my projects, I aim to build expertise and contribute to a safer digital world
