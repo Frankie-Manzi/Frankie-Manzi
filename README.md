@@ -59,10 +59,12 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </div>
 
-## Programming Languages
+## Scripting & Query Languages
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+
 
 ## Projects
 - Setup a virtual homelab with Windows and Kali Linux machines
