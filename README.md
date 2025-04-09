@@ -14,10 +14,12 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Frankie-Manzi/SIEM-Implementation-and-Log-Analysis/tree/main"> Siem Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Frankie-Manzi/WireShark/blob/main/README.md"> Wireshark Lab</a>|
-| Configured a cloud-based HoneyPot        | <a href="https://github.com/Frankie-Manzi/HoneyPot/blob/main/README.md"> HoneyPot</a>|
+| Configuration of a cloud-based HoneyPot        | <a href="https://github.com/Frankie-Manzi/HoneyPot/blob/main/README.md"> HoneyPot</a>|
 | SOC analyst simulation      | <a href="https://github.com/Frankie-Manzi/TryHackMe-SOC-simulation/blob/main/README.md"> TryHackMe SOC Simulation|
 | SOAR-EDR and playbook configuration                 | <a href="https://github.com/Frankie-Manzi/SOAR-EDR/blob/main/README.md"> SOAR-EDR Project|
 | Scripting and Automation for Log Parsing and other tasks| <a href="https://github.com/Frankie-Manzi/Python-Scripts"> Python Scripts|
+| Configuration of an IDS for Attack Detection| In Progress |
+| Active Directory Log Analysis and Threat Detection Using Splunk| In Progress |
 
 ## Tools
 
