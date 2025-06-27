@@ -18,6 +18,7 @@ My journey in technology, fueled by personal curiosity and hands-on experience, 
 | SOC analyst simulation      | <a href="https://github.com/Frankie-Manzi/TryHackMe-SOC-simulation/blob/main/README.md"> TryHackMe SOC Simulation|
 | SOAR-EDR and playbook configuration                 | <a href="https://github.com/Frankie-Manzi/SOAR-EDR/blob/main/README.md"> SOAR-EDR Project|
 | Scripting and Automation for Log Parsing and other tasks| <a href="https://github.com/Frankie-Manzi/Python-Scripts"> Python Scripts|
+| Phishing Domain OSINT investigation | <a href="https://github.com/Frankie-Manzi/Phishing-Domain-Investigation"> OSINT Lab
 | Configuration of an IDS for Attack Detection| In Progress |
 | Active Directory Log Analysis and Threat Detection Using Splunk| In Progress |
 
